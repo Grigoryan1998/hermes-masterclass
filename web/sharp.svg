@@ -1,0 +1,6 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>SHARP</title>
+  <rect width="240" height="240" rx="28" fill="#1d1a17"/>
+  <path d="M60 70 L180 70 L150 110 L190 170 L50 170 L90 110 Z" fill="#d1495b"/>
+  <circle cx="120" cy="120" r="20" fill="#f6f0e8"/>
+</svg>

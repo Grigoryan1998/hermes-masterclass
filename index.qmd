@@ -1,0 +1,10 @@
+---
+title: "Welcome"
+---
+
+This is the SHARP project documentation site built with Quarto.
+
+## Getting started
+
+- Add your project overview here.
+- Add installation or usage steps here.
