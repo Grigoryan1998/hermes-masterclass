@@ -1,1 +1,24 @@
-/////////README////////////////
+# SHARP Documentation Site
+
+This repository contains the SHARP project documentation website built with
+Quarto and published to GitHub Pages via GitHub Actions.
+
+## Local preview
+
+1. Install Quarto: https://quarto.org/docs/get-started/
+2. Preview the site:
+
+```
+quarto preview
+```
+
+## Publish
+
+Publishing is automated. Any push to `main` triggers the GitHub Actions workflow
+to build and deploy the site to the `gh-pages` branch.
+
+## Structure
+
+- `_quarto.yml`: site configuration
+- `index.qmd`: homepage
+- `hermes.qmd`: HERMES experiment page
