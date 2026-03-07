@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is the SHARP project documentation site built with Quarto."
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "Welcome",
+    "section": "Getting started",
+    "text": "Getting started\n\nAdd your project overview here.\nAdd installation or usage steps here."
+  }
+]
