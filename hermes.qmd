@@ -1,0 +1,23 @@
+---
+title: "HERMES Experiment"
+---
+
+![HERMES spectrometer at DESY](HERMES-Detektor2_in_Parkposition.jpg)
+
+## Overview
+
+HERMES (HERA Measurement of Spin) was a fixed-target experiment at DESY that studied the spin structure of the nucleon using the HERA lepton beam. It combined a polarized electron or positron beam with polarized gas targets to access spin-dependent observables across a wide range of kinematics.
+
+The forward spectrometer measured scattered leptons and produced hadrons with good momentum and particle-identification capabilities. This setup enabled precise studies of semi-inclusive processes and multi-hadron final states.
+
+## Beam-spin asymmetries in dihadron production
+
+Beam-spin asymmetries (BSAs) arise when the cross section depends on the helicity of the incoming lepton beam. In dihadron production, these asymmetries provide sensitivity to interference between amplitudes and to spin-dependent fragmentation mechanisms.
+
+Key features:
+
+- The asymmetry is extracted by comparing yields for opposite beam helicities as a function of azimuthal angles.
+- Dihadron observables can access chiral-odd fragmentation functions, which couple to the nucleon structure through spin correlations.
+- Systematic control of acceptance and radiative effects is essential for reliable asymmetry measurements.
+
+HERMES measurements of dihadron BSAs complement single-hadron studies and provide additional constraints on the spin-dependent dynamics of QCD in the non-perturbative regime.
