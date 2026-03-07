@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "hermes.html",
+    "href": "hermes.html",
+    "title": "HERMES Experiment",
+    "section": "",
+    "text": "HERMES spectrometer at DESY"
+  },
+  {
+    "objectID": "hermes.html#overview",
+    "href": "hermes.html#overview",
+    "title": "HERMES Experiment",
+    "section": "Overview",
+    "text": "Overview\nHERMES (HERA Measurement of Spin) was a fixed-target experiment at DESY that studied the spin structure of the nucleon using the HERA lepton beam. It combined a polarized electron or positron beam with polarized gas targets to access spin-dependent observables across a wide range of kinematics.\nThe forward spectrometer measured scattered leptons and produced hadrons with good momentum and particle-identification capabilities. This setup enabled precise studies of semi-inclusive processes and multi-hadron final states."
+  },
+  {
+    "objectID": "hermes.html#beam-spin-asymmetries-in-dihadron-production",
+    "href": "hermes.html#beam-spin-asymmetries-in-dihadron-production",
+    "title": "HERMES Experiment",
+    "section": "Beam-spin asymmetries in dihadron production",
+    "text": "Beam-spin asymmetries in dihadron production\nBeam-spin asymmetries (BSAs) arise when the cross section depends on the helicity of the incoming lepton beam. In dihadron production, these asymmetries provide sensitivity to interference between amplitudes and to spin-dependent fragmentation mechanisms.\nKey features:\n\nThe asymmetry is extracted by comparing yields for opposite beam helicities as a function of azimuthal angles.\nDihadron observables can access chiral-odd fragmentation functions, which couple to the nucleon structure through spin correlations.\nSystematic control of acceptance and radiative effects is essential for reliable asymmetry measurements.\n\nHERMES measurements of dihadron BSAs complement single-hadron studies and provide additional constraints on the spin-dependent dynamics of QCD in the non-perturbative regime."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
