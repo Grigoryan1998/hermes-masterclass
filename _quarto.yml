@@ -3,15 +3,35 @@ project:
   output-dir: _site
 
 website:
-  title: "SHARP Documentation"
+  title: "HERMES Masterclasses"
   navbar:
+    logo: assets/images/logo.png
     left:
       - href: index.qmd
         text: Home
-      - href: hermes.qmd
-        text: HERMES
+      - href: about-hermes.qmd
+        text: About HERMES
+      - href: physics-basics.qmd
+        text: Physics Basics
+      - text: Missions
+        menu:
+          - href: mission-1.qmd
+            text: Mission 1 — Inside the Proton
+          - href: mission-2.qmd
+            text: Mission 2 — Follow the Quark
+          - href: mission-3.qmd
+            text: Mission 3 — Charge and Quark Flavor
+          - href: mission-4.qmd
+            text: Mission 4 — Spin Mystery
+      - href: analysis-lab.qmd
+        text: Analysis Lab
+      - href: results.qmd
+        text: Results
+      - href: teachers.qmd
+        text: For Teachers
 
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: true

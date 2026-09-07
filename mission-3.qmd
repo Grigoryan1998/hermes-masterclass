@@ -1,0 +1,13 @@
+---
+title: "Mission 3 — Charge and Quark Flavor"
+---
+
+This mission will focus on electric charge and quark flavor.
+
+## Goal
+
+Students should practice linking particle properties to simple classification tasks.
+
+::: {.callout-warning}
+TODO: Verify all particle-property examples before adding student exercises.
+:::

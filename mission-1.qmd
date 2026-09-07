@@ -1,0 +1,13 @@
+---
+title: "Mission 1 — Inside the Proton"
+---
+
+This mission will introduce the idea that protons have internal structure.
+
+## Goal
+
+Students should build an initial picture of how experiments can probe objects that are too small to see directly.
+
+::: {.callout-warning}
+TODO: Define the simplified student activity and verify supporting figures.
+:::
