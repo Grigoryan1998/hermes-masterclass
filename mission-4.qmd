@@ -2,11 +2,35 @@
 title: "Mission 4 — Spin Mystery"
 ---
 
+::: {.mission-header}
+::: {.eyebrow}
+Mission 04
+:::
+
+::: {.subtitle}
+Why is spin a central question in proton structure?
+:::
+:::
+
 This mission will introduce spin as one of the questions studied in experiments like HERMES.
 
+::: {.mission-layout}
+::: {.mission-brief}
 ## Goal
 
 Students should see that spin is a measurable property, while avoiding unnecessary technical detail at first.
+:::
+
+::: {.mission-panel}
+### Activity Status
+
+::: {.status}
+Prototype
+:::
+
+Detailed student steps will be added after the spin explanation is verified.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Add a carefully checked explanation of spin for the target audience.

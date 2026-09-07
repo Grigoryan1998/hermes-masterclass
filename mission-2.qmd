@@ -2,11 +2,35 @@
 title: "Mission 2 — Follow the Quark"
 ---
 
+::: {.mission-header}
+::: {.eyebrow}
+Mission 02
+:::
+
+::: {.subtitle}
+How can a measured particle help reconstruct an interaction?
+:::
+:::
+
 This mission will connect observed particles to the idea of quarks inside a proton.
 
+::: {.mission-layout}
+::: {.mission-brief}
 ## Goal
 
 Students should learn how experimental clues can be used to reason about particle interactions.
+:::
+
+::: {.mission-panel}
+### Activity Status
+
+::: {.status}
+Prototype
+:::
+
+Detailed student steps will be added after the mission evidence chain is defined.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Decide which simplified event or diagram should support this mission.

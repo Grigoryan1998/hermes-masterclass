@@ -2,14 +2,45 @@
 title: "Physics Basics"
 ---
 
+::: {.page-intro}
+::: {.eyebrow}
+Foundations
+:::
+
+::: {.subtitle}
+Core ideas students need before starting the HERMES missions.
+:::
+:::
+
 This section will introduce the physics ideas needed for the missions.
 
 ## Topics
 
+::: {.info-grid}
+::: {.info-card}
+### Matter
+
 - Protons, neutrons, and quarks.
+:::
+
+::: {.info-card}
+### Identity
+
 - Electric charge and particle flavor.
+:::
+
+::: {.info-card}
+### Measurement
+
 - Scattering as a way to investigate structure.
+:::
+
+::: {.info-card}
+### Spin
+
 - Spin as a measurable quantum property.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Add age-appropriate explanations and verify terminology before expanding.

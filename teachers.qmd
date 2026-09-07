@@ -2,15 +2,41 @@
 title: "For Teachers"
 ---
 
+::: {.page-intro}
+::: {.eyebrow}
+Educator Resources
+:::
+
+::: {.subtitle}
+Teaching notes, lesson timing, and classroom material will live here.
+:::
+:::
+
 This section will provide support material for teachers and tutors.
 
 ## Planned Material
 
+::: {.info-grid}
+::: {.info-card}
+### Planning
+
 - Lesson outlines.
 - Suggested prerequisites.
+:::
+
+::: {.info-card}
+### Classroom Use
+
 - Classroom timing.
 - Discussion prompts.
+:::
+
+::: {.info-card}
+### Student Path
+
 - Links to student missions.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Add teacher notes after the mission sequence is more stable.

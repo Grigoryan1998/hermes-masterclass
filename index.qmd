@@ -3,43 +3,145 @@ title: "Home"
 page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-copy}
-## Explore Matter Through HERMES
+::: {.home-hero}
+::: {.home-hero__copy}
+::: {.eyebrow}
+Particle Physics • HERMES • DESY
+:::
 
-**HERMES Masterclasses** is an educational website about the HERMES experiment at DESY, prepared for high-school students, first-year university students, teachers, and tutors.
+# HERMES Masterclasses
+
+::: {.subtitle}
+Explore the proton with real particle-physics data
+:::
+
+HERMES Masterclasses is a scientific education site for students, teachers, and physicists. It introduces the HERMES experiment at DESY and prepares learners for guided, simplified analyses inspired by particle-physics measurements.
 
 ::: {.hero-actions}
-[Start with the Missions](mission-1.qmd){.btn .btn-primary}
-[Learn About HERMES](about-hermes.qmd){.btn .btn-outline-primary}
+[Start the Masterclass](mission-1.qmd){.button .button-primary}
+[Discover HERMES](about-hermes.qmd){.button .button-secondary}
 :::
 :::
 
-::: {.hero-media}
+::: {.home-hero__image}
 ![HERMES spectrometer at DESY](assets/images/HERMES-Detektor2_in_Parkposition.jpg)
+
+::: {.caption}
+HERMES detector photograph. TODO: add verified image credit and license.
 :::
 :::
-
-::: {.content-band}
-## Start Here
-
-::: {.feature-grid}
-::: {.feature-card}
-### Physics Basics
-
-Build the concepts needed before the missions.
 :::
 
-::: {.feature-card}
-### Missions
-
-Follow guided activities about protons, quarks, charge, flavor, and spin.
+::: {.section-wide}
+::: {.section-heading}
+::: {.eyebrow}
+Investigation Path
 :::
 
-::: {.feature-card}
-### Analysis Lab
+## What will you investigate?
+:::
 
-Prepare for future simplified analyses based on HERMES-inspired data.
+::: {.compact-card-grid}
+::: {.compact-card}
+### Look inside the proton
+
+Build a first model of why physicists use scattering to study matter.
+:::
+
+::: {.compact-card}
+### Follow the struck quark
+
+Connect measured particles to the story of an interaction.
+:::
+
+::: {.compact-card}
+### Make a measurement
+
+Prepare for a future analysis workflow with plots, selections, and results.
+:::
+:::
+:::
+
+::: {.section-wide}
+::: {.section-heading}
+::: {.eyebrow}
+Masterclass Route
+:::
+
+## Your Masterclass Missions
+:::
+
+::: {.mission-grid}
+::: {.mission-card}
+::: {.mission-card__number}
+Mission 01
+:::
+
+### Inside the Proton
+
+What does it mean to look inside a proton?
+
+Build the starting picture for probing tiny structures through experimental evidence.
+
+::: {.status}
+Prototype
+:::
+
+[Open mission](mission-1.qmd)
+:::
+
+::: {.mission-card}
+::: {.mission-card__number}
+Mission 02
+:::
+
+### Follow the Quark
+
+How can a measured particle help reconstruct an interaction?
+
+Trace the logic from a collision clue toward a particle-physics explanation.
+
+::: {.status}
+Prototype
+:::
+
+[Open mission](mission-2.qmd)
+:::
+
+::: {.mission-card}
+::: {.mission-card__number}
+Mission 03
+:::
+
+### Charge and Quark Flavor
+
+What can charge tell us about particle identity?
+
+Practice using particle properties in a compact classification task.
+
+::: {.status}
+Prototype
+:::
+
+[Open mission](mission-3.qmd)
+:::
+
+::: {.mission-card}
+::: {.mission-card__number}
+Mission 04
+:::
+
+### Spin Mystery
+
+Why is spin a central question in proton structure?
+
+Introduce spin as a measurable quantum property for later analysis.
+
+::: {.status}
+Prototype
+:::
+
+[Open mission](mission-4.qmd)
 :::
 :::
 

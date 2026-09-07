@@ -2,11 +2,35 @@
 title: "Mission 1 — Inside the Proton"
 ---
 
+::: {.mission-header}
+::: {.eyebrow}
+Mission 01
+:::
+
+::: {.subtitle}
+What does it mean to look inside a proton?
+:::
+:::
+
 This mission will introduce the idea that protons have internal structure.
 
+::: {.mission-layout}
+::: {.mission-brief}
 ## Goal
 
 Students should build an initial picture of how experiments can probe objects that are too small to see directly.
+:::
+
+::: {.mission-panel}
+### Activity Status
+
+::: {.status}
+Prototype
+:::
+
+Detailed student steps will be added after the scientific framing is verified.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Define the simplified student activity and verify supporting figures.

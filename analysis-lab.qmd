@@ -1,13 +1,84 @@
 ---
 title: "Analysis Lab"
+page-layout: full
 ---
 
-The analysis lab will eventually let students perform simplified analyses inspired by HERMES data.
+::: {.lab-shell}
+::: {.lab-header}
+::: {.eyebrow}
+Interactive Prototype
+:::
 
-## Current Prototype
+# Analysis Lab
 
-No real data-analysis backend is implemented yet.
+::: {.subtitle}
+A future workspace for simplified HERMES-inspired measurements.
+:::
+:::
+
+::: {.lab-workspace}
+::: {.lab-controls}
+## Controls
+
+::: {.control-group}
+Dataset
+
+`Sample data: not connected yet`
+:::
+
+::: {.control-group}
+Observable
+
+`Beam-spin asymmetry placeholder`
+:::
+
+::: {.control-group}
+Selection
+
+`Kinematic filters will appear here`
+:::
+
+[Run Preview](#){.button .button-primary .button-disabled}
+:::
+
+::: {.lab-main}
+::: {.plot-panel}
+::: {.plot-panel__top}
+### Plot Preview
+
+::: {.status}
+No backend
+:::
+:::
+
+::: {.plot-placeholder}
+Future plot area
+:::
+:::
+
+::: {.result-grid}
+::: {.result-card}
+### Selected Events
+
+Not calculated
+:::
+
+::: {.result-card}
+### Mean Value
+
+Not calculated
+:::
+
+::: {.result-card}
+### Uncertainty
+
+Not calculated
+:::
+:::
+:::
 
 ::: {.callout-note}
-Future work: add small, documented sample datasets and guided analysis notebooks or interactive exercises.
+No real data-analysis backend is implemented yet. Future work: add small, documented sample datasets and guided analysis notebooks or interactive exercises.
+:::
+:::
 :::
