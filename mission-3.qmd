@@ -2,11 +2,35 @@
 title: "Mission 3 — Charge and Quark Flavor"
 ---
 
+::: {.mission-header}
+::: {.eyebrow}
+Mission 03
+:::
+
+::: {.subtitle}
+What can charge tell us about particle identity?
+:::
+:::
+
 This mission will focus on electric charge and quark flavor.
 
+::: {.mission-layout}
+::: {.mission-brief}
 ## Goal
 
 Students should practice linking particle properties to simple classification tasks.
+:::
+
+::: {.mission-panel}
+### Activity Status
+
+::: {.status}
+Prototype
+:::
+
+Detailed student steps will be added after examples are checked.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Verify all particle-property examples before adding student exercises.

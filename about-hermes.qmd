@@ -2,10 +2,22 @@
 title: "About HERMES"
 ---
 
-::: {.lead-panel}
+::: {.page-intro}
+::: {.eyebrow}
+Experiment
+:::
+
+::: {.subtitle}
+An introduction to the HERMES experiment at DESY and the questions it helps students explore.
+:::
+:::
+
+::: {.image-feature}
 ![HERMES spectrometer at DESY](assets/images/HERMES-Detektor2_in_Parkposition.jpg)
 
-HERMES Masterclasses introduces students to how particle-physics experiments connect measured detector signals to questions about matter.
+::: {.caption}
+HERMES detector photograph. TODO: add verified image credit and license.
+:::
 :::
 
 ## Overview
@@ -16,9 +28,25 @@ This page will introduce the experiment, the scientific questions it addressed, 
 
 ## What Students Should Learn
 
+::: {.info-grid}
+::: {.info-card}
+### Experiment Context
+
 - What kind of experiment HERMES was.
+:::
+
+::: {.info-card}
+### Proton Structure
+
 - What physicists mean by probing the inside of a proton.
+:::
+
+::: {.info-card}
+### From Detector To Result
+
 - How experiments connect detector measurements to physics results.
+:::
+:::
 
 ::: {.callout-warning}
 TODO: Verify and cite concise technical background for HERMES before expanding this page.

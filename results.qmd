@@ -2,6 +2,16 @@
 title: "Results"
 ---
 
+::: {.page-intro}
+::: {.eyebrow}
+Outputs
+:::
+
+::: {.subtitle}
+Space for future example plots, student outputs, and explanations.
+:::
+:::
+
 This section will eventually collect student outputs, example plots, and explanations of what the simplified analyses show.
 
 ## Current Prototype

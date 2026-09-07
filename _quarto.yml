@@ -29,6 +29,13 @@ website:
         text: Results
       - href: teachers.qmd
         text: For Teachers
+  page-footer:
+    left: "HERMES Masterclasses"
+    right:
+      - text: "About HERMES"
+        href: about-hermes.qmd
+      - text: "For Teachers"
+        href: teachers.qmd
 
 format:
   html:
