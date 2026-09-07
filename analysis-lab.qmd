@@ -1,0 +1,13 @@
+---
+title: "Analysis Lab"
+---
+
+The analysis lab will eventually let students perform simplified analyses inspired by HERMES data.
+
+## Current Prototype
+
+No real data-analysis backend is implemented yet.
+
+::: {.callout-note}
+Future work: add small, documented sample datasets and guided analysis notebooks or interactive exercises.
+:::

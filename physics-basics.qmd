@@ -1,0 +1,16 @@
+---
+title: "Physics Basics"
+---
+
+This section will introduce the physics ideas needed for the missions.
+
+## Topics
+
+- Protons, neutrons, and quarks.
+- Electric charge and particle flavor.
+- Scattering as a way to investigate structure.
+- Spin as a measurable quantum property.
+
+::: {.callout-warning}
+TODO: Add age-appropriate explanations and verify terminology before expanding.
+:::

@@ -1,0 +1,17 @@
+---
+title: "For Teachers"
+---
+
+This section will provide support material for teachers and tutors.
+
+## Planned Material
+
+- Lesson outlines.
+- Suggested prerequisites.
+- Classroom timing.
+- Discussion prompts.
+- Links to student missions.
+
+::: {.callout-warning}
+TODO: Add teacher notes after the mission sequence is more stable.
+:::

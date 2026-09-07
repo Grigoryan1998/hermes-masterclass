@@ -1,7 +1,7 @@
-# SHARP Documentation Site
+# HERMES Masterclasses
 
-This repository contains the SHARP project documentation website built with
-Quarto and published to GitHub Pages via GitHub Actions.
+This repository contains the HERMES Masterclasses educational website built
+with Quarto and published to GitHub Pages via GitHub Actions.
 
 ## Local preview
 
@@ -21,4 +21,9 @@ to build and deploy the site to the `gh-pages` branch.
 
 - `_quarto.yml`: site configuration
 - `index.qmd`: homepage
-- `hermes.qmd`: HERMES experiment page
+- `about-hermes.qmd`: HERMES experiment overview
+- `physics-basics.qmd`: introductory physics page
+- `mission-*.qmd`: mission pages
+- `analysis-lab.qmd`: future analysis area
+- `results.qmd`: future results area
+- `teachers.qmd`: teacher and tutor resources

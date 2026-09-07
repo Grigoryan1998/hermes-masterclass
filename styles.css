@@ -1,0 +1,244 @@
+/* Lightweight site styling for the HERMES Masterclasses prototype. */
+
+:root {
+  --hermes-ink: #1d252c;
+  --hermes-muted: #53616c;
+  --hermes-accent: #b3262e;
+  --hermes-blue: #0077a8;
+  --hermes-gold: #f0b429;
+  --hermes-panel: #f4f7f9;
+  --hermes-line: #d8e1e8;
+}
+
+body {
+  color: var(--hermes-ink);
+  background:
+    linear-gradient(180deg, #eef5f8 0, #ffffff 280px);
+  font-feature-settings: "kern";
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(29, 37, 44, 0.08);
+  box-shadow: 0 8px 24px rgba(29, 37, 44, 0.06);
+}
+
+.navbar-brand {
+  align-items: center;
+  gap: 0.55rem;
+  max-width: none;
+}
+
+.navbar-title {
+  font-weight: 700;
+  line-height: 1.05;
+  overflow: visible;
+  text-overflow: clip;
+  white-space: normal;
+}
+
+.navbar-logo {
+  max-height: 38px;
+  width: auto;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: 0;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+a {
+  color: var(--hermes-accent);
+}
+
+main img {
+  border-radius: 6px;
+}
+
+.callout {
+  border-radius: 6px;
+}
+
+.quarto-title-block .title {
+  color: var(--hermes-ink);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+  gap: clamp(1.5rem, 4vw, 4rem);
+  align-items: center;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: clamp(2rem, 7vw, 5.5rem) 1.25rem 2rem;
+}
+
+.hero-copy h2 {
+  max-width: 13ch;
+  margin: 0 0 1rem;
+  font-size: clamp(2.4rem, 6vw, 5.4rem);
+  font-weight: 850;
+  line-height: 0.95;
+}
+
+.hero-copy p {
+  max-width: 42rem;
+  color: var(--hermes-muted);
+  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+}
+
+.btn-primary {
+  background: var(--hermes-accent);
+  border-color: var(--hermes-accent);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background: #8f1e25;
+  border-color: #8f1e25;
+}
+
+.btn-outline-primary {
+  border-color: var(--hermes-blue);
+  color: var(--hermes-blue);
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background: var(--hermes-blue);
+  border-color: var(--hermes-blue);
+}
+
+.hero-media {
+  position: relative;
+}
+
+.hero-media::before {
+  position: absolute;
+  inset: -14px 14px 14px -14px;
+  border: 2px solid var(--hermes-gold);
+  border-radius: 8px;
+  content: "";
+}
+
+.hero-media img {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  box-shadow: 0 22px 50px rgba(29, 37, 44, 0.2);
+}
+
+.content-band {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 1rem 1.25rem 4rem;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 1.5rem;
+}
+
+.feature-card {
+  min-height: 150px;
+  padding: 1.25rem;
+  border: 1px solid var(--hermes-line);
+  border-top: 4px solid var(--hermes-blue);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.84);
+  box-shadow: 0 12px 30px rgba(29, 37, 44, 0.07);
+}
+
+.feature-card:nth-child(2) {
+  border-top-color: var(--hermes-accent);
+}
+
+.feature-card:nth-child(3) {
+  border-top-color: var(--hermes-gold);
+}
+
+.feature-card h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.feature-card p {
+  color: var(--hermes-muted);
+}
+
+.lead-panel {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.9fr) minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid var(--hermes-line);
+  border-radius: 8px;
+  background: var(--hermes-panel);
+}
+
+.lead-panel img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+}
+
+.lead-panel p {
+  margin: 0;
+  color: var(--hermes-muted);
+  font-size: 1.15rem;
+}
+
+@media (max-width: 991px) {
+  .navbar-brand {
+    max-width: calc(100vw - 6rem);
+  }
+
+  .navbar-title {
+    font-size: 1rem;
+  }
+
+  .navbar-logo {
+    max-height: 32px;
+  }
+}
+
+@media (max-width: 760px) {
+  .hero,
+  .lead-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .hero {
+    padding-top: 2rem;
+  }
+
+  .hero-copy h2 {
+    max-width: 11ch;
+  }
+
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+}

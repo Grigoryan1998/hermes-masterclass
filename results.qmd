@@ -1,0 +1,13 @@
+---
+title: "Results"
+---
+
+This section will eventually collect student outputs, example plots, and explanations of what the simplified analyses show.
+
+## Current Prototype
+
+Results content has not been added yet.
+
+::: {.callout-warning}
+TODO: Decide how to distinguish authentic HERMES results from simplified educational outputs.
+:::

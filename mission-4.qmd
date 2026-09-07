@@ -1,0 +1,13 @@
+---
+title: "Mission 4 — Spin Mystery"
+---
+
+This mission will introduce spin as one of the questions studied in experiments like HERMES.
+
+## Goal
+
+Students should see that spin is a measurable property, while avoiding unnecessary technical detail at first.
+
+::: {.callout-warning}
+TODO: Add a carefully checked explanation of spin for the target audience.
+:::
