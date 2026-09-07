@@ -4,84 +4,84 @@
     "href": "physics-basics.html",
     "title": "Physics Basics",
     "section": "",
-    "text": "This section will introduce the physics ideas needed for the missions."
+    "text": "Foundations\n\n\nCore ideas students need before starting the HERMES missions.\nThis section will introduce the physics ideas needed for the missions."
   },
   {
     "objectID": "physics-basics.html#topics",
     "href": "physics-basics.html#topics",
     "title": "Physics Basics",
     "section": "Topics",
-    "text": "Topics\n\nProtons, neutrons, and quarks.\nElectric charge and particle flavor.\nScattering as a way to investigate structure.\nSpin as a measurable quantum property.\n\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Add age-appropriate explanations and verify terminology before expanding."
+    "text": "Topics\n\n\nMatter\n\nProtons, neutrons, and quarks.\n\n\n\nIdentity\n\nElectric charge and particle flavor.\n\n\n\nMeasurement\n\nScattering as a way to investigate structure.\n\n\n\nSpin\n\nSpin as a measurable quantum property.\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Add age-appropriate explanations and verify terminology before expanding."
   },
   {
     "objectID": "analysis-lab.html",
     "href": "analysis-lab.html",
     "title": "Analysis Lab",
     "section": "",
-    "text": "The analysis lab will eventually let students perform simplified analyses inspired by HERMES data."
+    "text": "Interactive Prototype\n\n\n\n\nA future workspace for simplified HERMES-inspired measurements.\n\n\n\n\n\n\n\nDataset\nSample data: not connected yet\n\n\nObservable\nBeam-spin asymmetry placeholder\n\n\nSelection\nKinematic filters will appear here\n\nRun Preview\n\n\n\n\n\n\nNo backend\n\n\n\nFuture plot area\n\n\n\n\n\nNot calculated\n\n\n\nNot calculated\n\n\n\nNot calculated\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNo real data-analysis backend is implemented yet. Future work: add small, documented sample datasets and guided analysis notebooks or interactive exercises."
   },
   {
-    "objectID": "analysis-lab.html#current-prototype",
-    "href": "analysis-lab.html#current-prototype",
+    "objectID": "analysis-lab.html#controls",
+    "href": "analysis-lab.html#controls",
     "title": "Analysis Lab",
-    "section": "Current Prototype",
-    "text": "Current Prototype\nNo real data-analysis backend is implemented yet.\n\n\n\n\n\n\nNote\n\n\n\nFuture work: add small, documented sample datasets and guided analysis notebooks or interactive exercises."
+    "section": "",
+    "text": "Dataset\nSample data: not connected yet\n\n\nObservable\nBeam-spin asymmetry placeholder\n\n\nSelection\nKinematic filters will appear here\n\nRun Preview"
   },
   {
     "objectID": "mission-2.html",
     "href": "mission-2.html",
     "title": "Mission 2 — Follow the Quark",
     "section": "",
-    "text": "This mission will connect observed particles to the idea of quarks inside a proton."
+    "text": "Mission 02\n\n\nHow can a measured particle help reconstruct an interaction?\nThis mission will connect observed particles to the idea of quarks inside a proton."
   },
   {
     "objectID": "mission-2.html#goal",
     "href": "mission-2.html#goal",
     "title": "Mission 2 — Follow the Quark",
     "section": "Goal",
-    "text": "Goal\nStudents should learn how experimental clues can be used to reason about particle interactions.\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Decide which simplified event or diagram should support this mission."
+    "text": "Goal\nStudents should learn how experimental clues can be used to reason about particle interactions."
   },
   {
     "objectID": "teachers.html",
     "href": "teachers.html",
     "title": "For Teachers",
     "section": "",
-    "text": "This section will provide support material for teachers and tutors."
+    "text": "Educator Resources\n\n\nTeaching notes, lesson timing, and classroom material will live here.\nThis section will provide support material for teachers and tutors."
   },
   {
     "objectID": "teachers.html#planned-material",
     "href": "teachers.html#planned-material",
     "title": "For Teachers",
     "section": "Planned Material",
-    "text": "Planned Material\n\nLesson outlines.\nSuggested prerequisites.\nClassroom timing.\nDiscussion prompts.\nLinks to student missions.\n\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Add teacher notes after the mission sequence is more stable."
+    "text": "Planned Material\n\n\nPlanning\n\nLesson outlines.\nSuggested prerequisites.\n\n\n\nClassroom Use\n\nClassroom timing.\nDiscussion prompts.\n\n\n\nStudent Path\n\nLinks to student missions.\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Add teacher notes after the mission sequence is more stable."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "HERMES Masterclasses is an educational website about the HERMES experiment at DESY, prepared for high-school students, first-year university students, teachers, and tutors.\n\nStart with the Missions Learn About HERMES\n\n\n\n\n\n\nHERMES spectrometer at DESY"
+    "text": "Particle Physics • HERMES • DESY\n\n\n\n\nExplore the proton with real particle-physics data\n\nHERMES Masterclasses is a scientific education site for students, teachers, and physicists. It introduces the HERMES experiment at DESY and prepares learners for guided, simplified analyses inspired by particle-physics measurements.\n\nStart the Masterclass Discover HERMES\n\n\n\n\n\n\n\nHERMES spectrometer at DESY\n\n\n\nHERMES detector photograph. TODO: add verified image credit and license."
   },
   {
-    "objectID": "index.html#explore-matter-through-hermes",
-    "href": "index.html#explore-matter-through-hermes",
+    "objectID": "index.html#what-will-you-investigate",
+    "href": "index.html#what-will-you-investigate",
     "title": "Home",
-    "section": "",
-    "text": "HERMES Masterclasses is an educational website about the HERMES experiment at DESY, prepared for high-school students, first-year university students, teachers, and tutors.\n\nStart with the Missions Learn About HERMES"
+    "section": "What will you investigate?",
+    "text": "What will you investigate?"
   },
   {
-    "objectID": "index.html#start-here",
-    "href": "index.html#start-here",
+    "objectID": "index.html#your-masterclass-missions",
+    "href": "index.html#your-masterclass-missions",
     "title": "Home",
-    "section": "Start Here",
-    "text": "Start Here\n\n\nPhysics Basics\nBuild the concepts needed before the missions.\n\n\nMissions\nFollow guided activities about protons, quarks, charge, flavor, and spin.\n\n\nAnalysis Lab\nPrepare for future simplified analyses based on HERMES-inspired data.\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a structure prototype. Detailed teaching content and verified technical references will be added later."
+    "section": "Your Masterclass Missions",
+    "text": "Your Masterclass Missions"
   },
   {
     "objectID": "results.html",
     "href": "results.html",
     "title": "Results",
     "section": "",
-    "text": "This section will eventually collect student outputs, example plots, and explanations of what the simplified analyses show."
+    "text": "Outputs\n\n\nSpace for future example plots, student outputs, and explanations.\nThis section will eventually collect student outputs, example plots, and explanations of what the simplified analyses show."
   },
   {
     "objectID": "results.html#current-prototype",
@@ -95,35 +95,35 @@
     "href": "mission-3.html",
     "title": "Mission 3 — Charge and Quark Flavor",
     "section": "",
-    "text": "This mission will focus on electric charge and quark flavor."
+    "text": "Mission 03\n\n\nWhat can charge tell us about particle identity?\nThis mission will focus on electric charge and quark flavor."
   },
   {
     "objectID": "mission-3.html#goal",
     "href": "mission-3.html#goal",
     "title": "Mission 3 — Charge and Quark Flavor",
     "section": "Goal",
-    "text": "Goal\nStudents should practice linking particle properties to simple classification tasks.\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Verify all particle-property examples before adding student exercises."
+    "text": "Goal\nStudents should practice linking particle properties to simple classification tasks."
   },
   {
     "objectID": "mission-1.html",
     "href": "mission-1.html",
     "title": "Mission 1 — Inside the Proton",
     "section": "",
-    "text": "This mission will introduce the idea that protons have internal structure."
+    "text": "Mission 01\n\n\nWhat does it mean to look inside a proton?\nThis mission will introduce the idea that protons have internal structure."
   },
   {
     "objectID": "mission-1.html#goal",
     "href": "mission-1.html#goal",
     "title": "Mission 1 — Inside the Proton",
     "section": "Goal",
-    "text": "Goal\nStudents should build an initial picture of how experiments can probe objects that are too small to see directly.\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Define the simplified student activity and verify supporting figures."
+    "text": "Goal\nStudents should build an initial picture of how experiments can probe objects that are too small to see directly."
   },
   {
     "objectID": "about-hermes.html",
     "href": "about-hermes.html",
     "title": "About HERMES",
     "section": "",
-    "text": "HERMES spectrometer at DESY\n\n\nHERMES Masterclasses introduces students to how particle-physics experiments connect measured detector signals to questions about matter."
+    "text": "Experiment\n\n\nAn introduction to the HERMES experiment at DESY and the questions it helps students explore."
   },
   {
     "objectID": "about-hermes.html#overview",
@@ -137,7 +137,7 @@
     "href": "about-hermes.html#what-students-should-learn",
     "title": "About HERMES",
     "section": "What Students Should Learn",
-    "text": "What Students Should Learn\n\nWhat kind of experiment HERMES was.\nWhat physicists mean by probing the inside of a proton.\nHow experiments connect detector measurements to physics results.\n\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Verify and cite concise technical background for HERMES before expanding this page."
+    "text": "What Students Should Learn\n\n\nExperiment Context\n\nWhat kind of experiment HERMES was.\n\n\n\nProton Structure\n\nWhat physicists mean by probing the inside of a proton.\n\n\n\nFrom Detector To Result\n\nHow experiments connect detector measurements to physics results.\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Verify and cite concise technical background for HERMES before expanding this page."
   },
   {
     "objectID": "about-hermes.html#for-teachers",
@@ -151,13 +151,13 @@
     "href": "mission-4.html",
     "title": "Mission 4 — Spin Mystery",
     "section": "",
-    "text": "This mission will introduce spin as one of the questions studied in experiments like HERMES."
+    "text": "Mission 04\n\n\nWhy is spin a central question in proton structure?\nThis mission will introduce spin as one of the questions studied in experiments like HERMES."
   },
   {
     "objectID": "mission-4.html#goal",
     "href": "mission-4.html#goal",
     "title": "Mission 4 — Spin Mystery",
     "section": "Goal",
-    "text": "Goal\nStudents should see that spin is a measurable property, while avoiding unnecessary technical detail at first.\n\n\n\n\n\n\nWarning\n\n\n\nTODO: Add a carefully checked explanation of spin for the target audience."
+    "text": "Goal\nStudents should see that spin is a measurable property, while avoiding unnecessary technical detail at first."
   }
 ]
