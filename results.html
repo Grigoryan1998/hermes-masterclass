@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>HERMES Experiment – SHARP Documentation</title>
+<title>Results – HERMES Masterclasses</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -32,15 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3e9b1289f5f353c49b617ce48ad2bc38.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,6 +75,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -79,8 +85,12 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/images/logo.png" alt="" class="navbar-logo light-content">
+    <img src="./assets/images/logo.png" alt="" class="navbar-logo dark-content">
+    </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">SHARP Documentation</span>
+    <span class="navbar-title">HERMES Masterclasses</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -94,8 +104,47 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./hermes.html" aria-current="page"> 
-<span class="menu-text">HERMES</span></a>
+    <a class="nav-link" href="./about-hermes.html"> 
+<span class="menu-text">About HERMES</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./physics-basics.html"> 
+<span class="menu-text">Physics Basics</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-missions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Missions</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-missions">    
+        <li>
+    <a class="dropdown-item" href="./mission-1.html">
+ <span class="dropdown-text">Mission 1 — Inside the Proton</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mission-2.html">
+ <span class="dropdown-text">Mission 2 — Follow the Quark</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mission-3.html">
+ <span class="dropdown-text">Mission 3 — Charge and Quark Flavor</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mission-4.html">
+ <span class="dropdown-text">Mission 4 — Spin Mystery</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./analysis-lab.html"> 
+<span class="menu-text">Analysis Lab</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./results.html" aria-current="page"> 
+<span class="menu-text">Results</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teachers.html"> 
+<span class="menu-text">For Teachers</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -113,8 +162,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
-  <li><a href="#beam-spin-asymmetries-in-dihadron-production" id="toc-beam-spin-asymmetries-in-dihadron-production" class="nav-link" data-scroll-target="#beam-spin-asymmetries-in-dihadron-production">Beam-spin asymmetries in dihadron production</a></li>
+  <li><a href="#current-prototype" id="toc-current-prototype" class="nav-link active" data-scroll-target="#current-prototype">Current Prototype</a></li>
   </ul>
 </nav>
     </div>
@@ -123,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">HERMES Experiment</h1>
+<h1 class="title">Results</h1>
 </div>
 
 
@@ -140,27 +188,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="HERMES-Detektor2_in_Parkposition.jpg" class="img-fluid figure-img"></p>
-<figcaption>HERMES spectrometer at DESY</figcaption>
-</figure>
+<p>This section will eventually collect student outputs, example plots, and explanations of what the simplified analyses show.</p>
+<section id="current-prototype" class="level2">
+<h2 class="anchored" data-anchor-id="current-prototype">Current Prototype</h2>
+<p>Results content has not been added yet.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>HERMES (HERA Measurement of Spin) was a fixed-target experiment at DESY that studied the spin structure of the nucleon using the HERA lepton beam. It combined a polarized electron or positron beam with polarized gas targets to access spin-dependent observables across a wide range of kinematics.</p>
-<p>The forward spectrometer measured scattered leptons and produced hadrons with good momentum and particle-identification capabilities. This setup enabled precise studies of semi-inclusive processes and multi-hadron final states.</p>
-</section>
-<section id="beam-spin-asymmetries-in-dihadron-production" class="level2">
-<h2 class="anchored" data-anchor-id="beam-spin-asymmetries-in-dihadron-production">Beam-spin asymmetries in dihadron production</h2>
-<p>Beam-spin asymmetries (BSAs) arise when the cross section depends on the helicity of the incoming lepton beam. In dihadron production, these asymmetries provide sensitivity to interference between amplitudes and to spin-dependent fragmentation mechanisms.</p>
-<p>Key features:</p>
-<ul>
-<li>The asymmetry is extracted by comparing yields for opposite beam helicities as a function of azimuthal angles.</li>
-<li>Dihadron observables can access chiral-odd fragmentation functions, which couple to the nucleon structure through spin correlations.</li>
-<li>Systematic control of acceptance and radiative effects is essential for reliable asymmetry measurements.</li>
-</ul>
-<p>HERMES measurements of dihadron BSAs complement single-hadron studies and provide additional constraints on the spin-dependent dynamics of QCD in the non-perturbative regime.</p>
+<div class="callout-title-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>TODO: Decide how to distinguish authentic HERMES results from simplified educational outputs.</p>
+</div>
+</div>
 
 
 </section>
@@ -239,7 +283,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/SHARP-COST\.github\.io\/ANNA_PROJECT\/");
+        var filterRegex = new RegExp("https:\/\/Grigoryan1998\.github\.io\/hermes-masterclass\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
